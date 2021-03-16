@@ -1,0 +1,61 @@
+body {
+    width: 80%;
+    margin-left: 10pt;
+    /*padding: 0;*/
+    box-sizing: border-box;
+    margin-block-start: 0;
+    border-width: 0;
+}
+
+h1 {
+    margin: 8px;
+    margin-bottom: 0px;
+
+}
+
+.hr {
+    margin-top: 0px;
+}
+
+.bodycontext {
+    display: flex;
+    justify-content: space-between;
+}
+
+.context > p {
+    line-height: 1.3;
+}
+
+li {
+    font: 15pt/10pt "Times New Roman";
+    line-height: 1.3;
+}
+
+.list {
+    width: 50%;
+    border: 4px solid lightgray;
+    padding: 10px;
+}
+
+.list h2{
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    margin: 8px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+
+}
+
+.text_and_image{
+    display:flex;
+    justify-content: space-between;
+}
+
+.blockImage{
+    width: 50%;
+    border: 4px solid lightgray;
+    padding: 10px;
+}
